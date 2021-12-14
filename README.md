@@ -4,6 +4,8 @@ HDRIs from [HDRI Haven](https://hdrihaven.com)
 
 LUTs from [Rockestock](https://www.rocketstock.com/free-after-effects-templates/35-free-luts-for-color-grading-videos/)
 
+Prototype textures from [Kenney](https://www.kenney.nl/assets/prototype-textures)
+
 # normal-maps
 | | | |
 |--|--|--|
